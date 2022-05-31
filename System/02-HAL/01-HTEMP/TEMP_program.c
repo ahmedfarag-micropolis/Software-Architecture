@@ -1,17 +1,19 @@
-/******************************************************************************************************/
-/* Author  : Name                                                                                     */
-/* Version : Code version number                                                                      */
-/* Date    : Date                                                                                     */
-/* description for the driver functionality	: 														  */
-/* program file -> This file includes function implementation								 	      */
-/******************************************************************************************************/
+/************************************************************************************************************/
+/* Author  : Name                                                                                           */
+/* Version : Version                                                                                        */
+/* Date    : Date  																						    */
+/*                                                                                        				    */
+/* Description of Interface file -> This file is for the implementation of the functions				    */
+/************************************************************************************************************/
 
 /* including sequence */
-// LIb files
+// LIbaray files
+/* Examples */
 #include "STD_TYPES.h"
 #include "BIT_MATH.h"
 
 // include files of the MCAL layer 
+/* Examples */
 #include "Arduino.h"
 
 // include files of the HAL layer 

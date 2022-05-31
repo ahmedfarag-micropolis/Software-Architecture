@@ -1,7 +1,9 @@
 /************************************************************************************************************/
-/* Author  : Ahmed Farag                     																*/
-/* Date    : 29 JUL 2020                     																*/
-/* Version : V01                             																*/
+/* Author  : Name                     																        */
+/* Date    : Date                     																        */
+/* Version : Version																						*/
+/*																											*/ 
+/* Description -> This file is used to define new data types for compatability with multiple compilers      */ 																						
 /************************************************************************************************************/
 #ifndef _STD_TYPES_H
 #define _STD_TYPES_H
